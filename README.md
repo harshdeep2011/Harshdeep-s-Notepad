@@ -139,7 +139,7 @@ Harshdeep-Enhanced-Notepad/
 │
 ├── README.md
 ├── Harshdeep's NotePad Code.py
-├── harhdep notepad icon.ico
+├── my_app_icon.ico
 │
 └── assets/
 └── app-preview.png
